@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Model files
+/models/*.pt
+
+# Output directory
+/output/
+
+# Python cache
+__pycache__/
+*.pyc
