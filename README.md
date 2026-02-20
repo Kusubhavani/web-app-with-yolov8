@@ -41,7 +41,7 @@ Interface          Logic          Detection
 
 1. **Clone or download the project**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Kusubhavani/web-app-with-yolov8.git
    cd web-app-with-yolov8
    ```
 
@@ -193,4 +193,5 @@ docker-compose logs ui
 
 # Follow logs in real-time
 docker-compose logs -f
+
 ```
